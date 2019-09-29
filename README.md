@@ -7,6 +7,7 @@ BTW the link http://www.ethannicholas.com/enigma/ is dead and domain ethannichol
 
 I may or may not continue using it as it's GPL.
 
+**thevpc** I am  adding maven support to the library
 
 
 *Enigma Console API*
